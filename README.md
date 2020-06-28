@@ -1,3 +1,3 @@
-# IBM Applied Data Science Specialization on Coursera
-**This repository is aimed to help Coursera learners who have difficulties and need some inspiration in their learning process.**
-I have included the programming/peer-review homework. These questions belong to Coursera and IBM.
+# IBM Data Science on Coursera <br>
+**This repository is aimed to help Coursera learners who have difficulties and need some inspiration in their learning process.** <br>
+In this repository, the programming/peer-review homework are stored in their corresponding specialisation certificates and courses. These questions belong to Coursera and IBM.
