@@ -2,7 +2,7 @@
 I have included the programming/peer-review homework, for your reference. <br>
 These questions belong to Coursera and IBM. <br>
 <br>
-*Note that the title of the assignments corresponds to the individual course titles in the specialisation.*
+*Note that the title of the assignments corresponds to the individual course titles in the specialisation. I have arranged them according to the recommended sequence that you should take the courses in.*
 <br>
 <br>
 *For the assignment in 'Tools for Data Science', the external link to the Jupyter Notebook on IBM Watson Studio is as follows:* <br>
